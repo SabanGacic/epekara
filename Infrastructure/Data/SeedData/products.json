@@ -1,0 +1,164 @@
+[
+  {
+    "Name": "Somun",
+    "Description": "Tradicionalni bosanski somun od pšeničnog brašna, mekan iznutra i hrskav izvana. Savršen uz sve vrste namaza i jela.",
+    "Price": 1.50,
+    "PictureUrl": "/images/products/somun.png",
+    "Type": "Hljeb",
+    "Brand": "Pšenično",
+    "QuantityInStock": 100
+  },
+  {
+    "Name": "Bijeli hljeb",
+    "Description": "Klasični bijeli hljeb od bijelog pšeničnog brašna. Blage arome i savršene teksture za svakodnevnu upotrebu.",
+    "Price": 2.00,
+    "PictureUrl": "/images/products/bijeli-hljeb.png",
+    "Type": "Hljeb",
+    "Brand": "Pšenično",
+    "QuantityInStock": 80
+  },
+  {
+    "Name": "Crni hljeb",
+    "Description": "Tamni krušni hljeb bogat vlaknima. Zdrava i hranjiva opcija za sve koji vode računa o prehrani.",
+    "Price": 2.50,
+    "PictureUrl": "/images/products/crni-hljeb.png",
+    "Type": "Hljeb",
+    "Brand": "Raženo",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Integralni hljeb",
+    "Description": "Hljeb od integralnog brašna bogat vlaknima i nutrijentima. Idealan za zdravu ishranu.",
+    "Price": 3.00,
+    "PictureUrl": "/images/products/integralni-hljeb.png",
+    "Type": "Hljeb",
+    "Brand": "Integralno",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "Kifle",
+    "Description": "Mekane i slatke kifle od maslačnog tijesta. Idealne za doručak uz maslac i džem.",
+    "Price": 0.50,
+    "PictureUrl": "/images/products/kifle.png",
+    "Type": "Pecivo",
+    "Brand": "Pšenično",
+    "QuantityInStock": 200
+  },
+  {
+    "Name": "Pereci",
+    "Description": "Hrskavi slani pereci posuti krupnom solju. Odličan snack uz pivo ili kao grickalica.",
+    "Price": 0.80,
+    "PictureUrl": "/images/products/pereci.png",
+    "Type": "Pecivo",
+    "Brand": "Pšenično",
+    "QuantityInStock": 150
+  },
+  {
+    "Name": "Lepinja",
+    "Description": "Mekana pšenična lepinja, savršena za ćevape i roštilj. Neizostavan dio bosanske kuhinje.",
+    "Price": 0.70,
+    "PictureUrl": "/images/products/lepinja.png",
+    "Type": "Pecivo",
+    "Brand": "Pšenično",
+    "QuantityInStock": 180
+  },
+  {
+    "Name": "Kroasani sa sirom",
+    "Description": "Hrskavi kroasani punjeni topljenim sirom. Idealni za doručak ili užinu.",
+    "Price": 1.50,
+    "PictureUrl": "/images/products/kroasan-sir.png",
+    "Type": "Pecivo",
+    "Brand": "Maslačno",
+    "QuantityInStock": 90
+  },
+  {
+    "Name": "Burek sa mesom",
+    "Description": "Tradicionalni bosanski burek sa mljevenim mesom i lukom. Hrskava kora i sočan fil čine ga nezaboravnim.",
+    "Price": 3.00,
+    "PictureUrl": "/images/products/burek-meso.png",
+    "Type": "Pita",
+    "Brand": "Lisnato",
+    "QuantityInStock": 70
+  },
+  {
+    "Name": "Sirnica",
+    "Description": "Pita sa svježim kravljim sirom u hrskavoj lisnatoj kori. Klasik bosanske pekarske tradicije.",
+    "Price": 2.80,
+    "PictureUrl": "/images/products/sirnica.png",
+    "Type": "Pita",
+    "Brand": "Lisnato",
+    "QuantityInStock": 65
+  },
+  {
+    "Name": "Zeljanica",
+    "Description": "Ukusna pita sa blitvom i sirom. Lagana i hranjiva, savršena za ručak ili večeru.",
+    "Price": 2.80,
+    "PictureUrl": "/images/products/zeljanica.png",
+    "Type": "Pita",
+    "Brand": "Lisnato",
+    "QuantityInStock": 55
+  },
+  {
+    "Name": "Krompiruša",
+    "Description": "Pita sa filom od krompira i začina. Sytna i ukusna, posebno popularna tokom Ramazana.",
+    "Price": 2.50,
+    "PictureUrl": "/images/products/krompirusa.png",
+    "Type": "Pita",
+    "Brand": "Lisnato",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Baklava",
+    "Description": "Slatki desert od lisnatog tijesta, oraha i šećernog sirupa. Kraljica bosanskih slastica.",
+    "Price": 5.00,
+    "PictureUrl": "/images/products/baklava.png",
+    "Type": "Kolač",
+    "Brand": "Lisnato",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "Tulumba",
+    "Description": "Prženo tijesto natopljeno šećernim sirupom. Hrskava izvana, mekana iznutra.",
+    "Price": 3.50,
+    "PictureUrl": "/images/products/tulumba.png",
+    "Type": "Kolač",
+    "Brand": "Pšenično",
+    "QuantityInStock": 80
+  },
+  {
+    "Name": "Štrudla sa jabukama",
+    "Description": "Tanko tijesto punjeno svježim jabukama, cimetom i šećerom. Toplo posluživanje preporučeno.",
+    "Price": 4.00,
+    "PictureUrl": "/images/products/strudla-jabuke.png",
+    "Type": "Kolač",
+    "Brand": "Lisnato",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Čokoladna torta",
+    "Description": "Bogata čokoladna torta sa tri sloja biskvita i ganache kremom. Savršena za posebne prigode.",
+    "Price": 25.00,
+    "PictureUrl": "/images/products/cokoladna-torta.png",
+    "Type": "Torta",
+    "Brand": "Biskvitno",
+    "QuantityInStock": 10
+  },
+  {
+    "Name": "Svadbena torta",
+    "Description": "Elegantna bijela torta sa vanila kremom i bijelom glazurom, ukrašena cvijećem. Naručuje se unaprijed.",
+    "Price": 60.00,
+    "PictureUrl": "/images/products/svadbena-torta.png",
+    "Type": "Torta",
+    "Brand": "Biskvitno",
+    "QuantityInStock": 5
+  },
+  {
+    "Name": "Voćna torta",
+    "Description": "Lagana torta sa šlag kremom i svježim sezonskim voćem. Osvježavajuća i vizualno atraktivna.",
+    "Price": 30.00,
+    "PictureUrl": "/images/products/vocna-torta.png",
+    "Type": "Torta",
+    "Brand": "Biskvitno",
+    "QuantityInStock": 8
+  }
+]
